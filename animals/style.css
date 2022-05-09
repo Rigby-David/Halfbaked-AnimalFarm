@@ -1,0 +1,10 @@
+#animal-image {
+    height: 200px;
+    width: 100px;
+    /* justify-content: center; */
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
